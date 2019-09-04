@@ -3,41 +3,41 @@ CAMBIO 2 EN ECLIPSE
 Los Dinosaurios
 
  
-Nuestra tierra tiene 4,54 mil millones de aÒos 
-y con el transcurso de todos estos aÒos han pasado 
+Nuestra tierra tiene 4,54 mil millones de a√±os 
+y con el transcurso de todos estos a√±os han pasado 
 numerosas formas de vida sobre ella, especies que hace
 mucho se extinguieron y otras que en cambio evolucionaron
-y todavÌa forman parte de nuestro ecosistema.
+y todav√≠a forman parte de nuestro ecosistema.
 
 Del numeroso grupo de seres extintos hacen parte los poderosos
 y admirados dinosaurios.  Los dinosaurios fueron enormes reptiles
 que habitaron en nuestro planeta tierra durante 160 millones de 
-aÒos aproximadamente, en la era mesozoica y se encuentran ubicados 
-en el superorden de vertebrados saurÛsipdos. 
-La palabra dinosaurio viene del griego y significa ìlagarto terribleî,
-el cientÌfico Richard Owen fue quien empleÛ  el tÈrmino en 1841, porque
-para Èl eran enormes lagartos que le infundÌan respeto y admiraciÛn.
+a√±os aproximadamente, en la era mesozoica y se encuentran ubicados 
+en el superorden de vertebrados saur√≥sipdos. 
+La palabra dinosaurio viene del griego y significa ‚Äúlagarto terrible‚Äù,
+el cient√≠fico Richard Owen fue quien emple√≥  el t√©rmino en 1841, porque
+para √©l eran enormes lagartos que le infund√≠an respeto y admiraci√≥n.
 
 El conocimiento que se tiene de los dinosaurios es gracias a los  restos 
-fÛsiles que han sido hallados en todos los continentes. Con los aÒos y con
-ayuda de la tecnologÌa se han hecho simulaciones  muy  reales de estos animales, 
-y gracias a esto, es que podemos tener una idea de cÛmo eran estas maravillosas 
-criaturas, cÛmo vivÌan y cu·les eran sus h·bitos.
+f√≥siles que han sido hallados en todos los continentes. Con los a√±os y con
+ayuda de la tecnolog√≠a se han hecho simulaciones  muy  reales de estos animales, 
+y gracias a esto, es que podemos tener una idea de c√≥mo eran estas maravillosas 
+criaturas, c√≥mo viv√≠an y cu√°les eran sus h√°bitos.
 
-Existieron diversos tipos de dinosaurios, desde los m·s grandes como el Ultrasaurus 
+Existieron diversos tipos de dinosaurios, desde los m√°s grandes como el Ultrasaurus 
 (o Ultrasauros) que alcanzaba 15 metros cuando estiraba la cabeza hacia arriba al igual 
-que lo hacen las jirafas, hasta los m·s pequeÒos como el Saltopus, que medÌa aproximadamente 
-entre 50 y 90 centÌmetros  o el Micropachycephalosaurus (o Micropachycephalosauros), fue el 
-dinosaurio m·s pequeÒo y era casi del tamaÒo de un conejo.
+que lo hacen las jirafas, hasta los m√°s peque√±os como el Saltopus, que med√≠a aproximadamente 
+entre 50 y 90 cent√≠metros  o el Micropachycephalosaurus (o Micropachycephalosauros), fue el 
+dinosaurio m√°s peque√±o y era casi del tama√±o de un conejo.
 
-En cuanto a su alimentaciÛn,  los fÛsiles desempeÒaron de nuevo un papel importante para que 
-los cientÌficos descubrieran cÛmo se alimentaban los dinosaurios. La informaciÛn m·s importante 
-la dan la dentadura del animal y la forma, junto con la disposiciÛn de las mandÌbulas.  Los herbÌvoros 
-tenÌan los dientes planos, en cambio los dientes en los carnÌvoros eran curvados y cerrados, de esta manera 
-penetraban m·s en la carne de la presa.  Con los fÛsiles encontrados, tambiÈn se descubriÛ que los carnÌvoros 
-tenÌan una cabeza grande  con un cuello musculoso, por eso, se supone que poseÌan una mordedura fuerte que les 
-permitÌa arrancar buenas porciones de carne. En cambio, los herbÌvoros poseÌan cuellos muy largos y de esta manera 
-conseguÌan alimento en las copas altas de los ·rboles.
+En cuanto a su alimentaci√≥n,  los f√≥siles desempe√±aron de nuevo un papel importante para que 
+los cient√≠ficos descubrieran c√≥mo se alimentaban los dinosaurios. La informaci√≥n m√°s importante 
+la dan la dentadura del animal y la forma, junto con la disposici√≥n de las mand√≠bulas.  Los herb√≠voros 
+ten√≠an los dientes planos, en cambio los dientes en los carn√≠voros eran curvados y cerrados, de esta manera 
+penetraban m√°s en la carne de la presa.  Con los f√≥siles encontrados, tambi√©n se descubri√≥ que los carn√≠voros 
+ten√≠an una cabeza grande  con un cuello musculoso, por eso, se supone que pose√≠an una mordedura fuerte que les 
+permit√≠a arrancar buenas porciones de carne. En cambio, los herb√≠voros pose√≠an cuellos muy largos y de esta manera 
+consegu√≠an alimento en las copas altas de los √°rboles.
 
 
 FIN 									CAMBIO PARA SIIII SUBIR
@@ -46,5 +46,9 @@ FIN 									CAMBIO PARA SIIII SUBIR
 
 cambios de rama 2
 
+<<<<<<< HEAD
 
 
+=======
+CAMBIO 2
+>>>>>>> branch 'master' of https://github.com/MarijoseValentin/CursoGitEclipse.git
